@@ -1,0 +1,4 @@
+#count function
+str1='python is a high level programming language'
+print(str1.count('a'))# print number of occurrences of a in the given string
+print(str1.count('a',1,10))#pirnts number of  occurrences character a from index 1 to 9 

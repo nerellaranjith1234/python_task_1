@@ -1,0 +1,5 @@
+#lstrip fucntion
+a='   welcome to python'
+b=a.lstrip()
+print(a)
+print(b) # removes leading spaces and prints string

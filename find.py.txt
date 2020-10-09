@@ -1,0 +1,7 @@
+# to check wehter 'to' is present in 'welcome to python'
+a='weelcome  to python'
+sub_st=a.find('to')
+if(a[(sub_st):(sub_st)+2]=='to'):
+    print("yes")
+else:
+    print("no")

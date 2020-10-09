@@ -1,0 +1,3 @@
+a='welocome to python '
+b=a.split()
+print(b)
