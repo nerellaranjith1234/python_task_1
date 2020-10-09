@@ -1,0 +1,4 @@
+first_name="Nerella"
+last_name="Ranjithkumar"
+print("My name is {} and age is {}".format(first_name+last_name,23
+                                          ))
